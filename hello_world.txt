@@ -1,0 +1,6 @@
+Hello world!
+
+This text is written with VIM.
+
+
+And I use Arch, btw.
